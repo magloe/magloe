@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marc
 - 👀 I’m interested in electronics and videogames
-- 🌱 I’m currently learning videogames development with Unity
+- 🌱 I’m currently learning videogames development with Unity and Machine Learning in Coursera
 - 📫 How to reach me magole96@gmail.com
 
 <!---
